@@ -1,0 +1,19 @@
+{
+"login" :"Login",
+"signUp":"Sign Up",
+"userName":"Username",
+"email" :"Email",
+"Password" :"Password",
+"ConfirmPassword" : "Confirm Password",
+"CreateAnAccount" : "Create an Account",
+"forgetPassword" : "Forget Password?",
+"haveAccount" : "Already Have Account",
+"emailMessageError" :"the email is required",
+"emailMessageError2" :"Please enter a valid email address",
+"passwordMessageError" :"the password is required",
+"passwordMessageError2" :"Password must be at least 8 characters long, include an uppercase letter, a number, and a special character",
+"cPasswordMessageError" :"the Confirm password is required",
+"cPasswordMessageError2" :"Passwords do not match",
+"usernameMessageError" :"the user name is required"
+
+}
